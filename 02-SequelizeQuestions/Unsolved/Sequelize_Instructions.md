@@ -7,7 +7,8 @@
 h     It is an ORM for JS.
   	- Answer: What advantages does it offer?
     1. Easy to test
-    2. Easy access to database frameworks like
+    2. Easy access to database frameworks like MariaDB
+    3.
 
   	- Answer: How do I install it? How do I incorporate it into my app?
 
